@@ -1,3 +1,4 @@
+## This plugin currently only works with eshop 6.3.2.
 
 How to integrate eShop with 2Checkout
 -------------------------------------------
